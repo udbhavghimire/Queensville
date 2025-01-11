@@ -118,7 +118,7 @@
                                 Queensville Towns & Singles
                             </h1>
                         </div>
-                        <div class="pt-2 pt-sm-2 mt-md-1 rounded-mine mt-4 px-md-0 px-3">
+                        <div class="pt-2 pt-sm-2 mt-md-1 rounded-mine mt-2 px-md-0 px-2">
                             <p class="headline-textt headline-textt-sm">
                                 <a href="https://condomonk.ca/bradford/queensville"
                                     class="text-decoration-none boldd">Queensville Towns & Singles</a>
@@ -129,7 +129,7 @@
                                 Lakeview Homes. The community features thoughtfully designed homes with modern amenities
                                 and
                                 finishes, perfect for families looking for comfort and style in a growing neighborhood.
-                            <div class=" d-block fs-5 pt-1">
+                            <div class=" d-block fs-5 pt-1 center-sm">
                                 <p class="mybot pb-md-0 pb-0">
                                     Builders: Aspen Ridge Homes, CountryWide, Lakeview Homes
                                 </p>
@@ -227,7 +227,13 @@
                     </div>
 
                 </div>
+                <span class="d-flex justify-content-center align-items-center pt-3 px-2 center-sm">Disclaimer: The exact
+                    models
+                    and
+                    renderings of the project
+                    might vary from the images shown above.</span>
             </div>
+
         </div>
     </section>
 
@@ -448,7 +454,7 @@
         <div class="pt-5">
 
             <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center brand-color">
-                <span class="mx-1">Award-Winning Home Builders </span>
+                <span class="mx-1">Award-Winning Home Builders of Queensville </span>
             </h2>
 
             <div class="container ">
@@ -569,18 +575,18 @@
                         dimensions, materials, and colors are subject to change without notice. Actual homes may vary in
                         appearance. Please consult with the builder for the most up-to-date information on the homes and
                         specifications </span>
-                    <div class="list pt-2 d-md-block d-none">
+                    <div class="list pt-2 d-md-block d-none fw-bold">
                         <p class=""> <a href="https://condomonk.ca/bradford" target="_blank"
-                                class="text-dark text-decoration-none"><strong>
-                                    Check out all Bradfors pre construction homes projects on
-                                    Condomonk.</strong></a>
+                                class="text-dark text-decoration-none">
+                                Check out all Bradfors pre construction homes projects on
+                                Condomonk.</a>
                         </p>
 
                     </div>
                 </div>
                 <div class="col-md-4  py-md-5 py-4 center-sm px-5 ">
                     <div>
-                        <h5 class="text-dark fw-bold mt-4 mb-3">About</h5>
+                        <h5 class="text-dark fw-bold mt-4 mb-3">About the project</h5>
                         <div class="list d-block ">
                             <p class="mybot ">
                                 Builder : Aspen Ridge Homes, CountryWide Homes, Lakeview Homes
@@ -607,11 +613,11 @@
                 </div>
             </div>
 
-            <div class="list mt-5 pt-5 d-md-none d-block center-sm">
+            <div class="list mt-5 pt-5 d-md-none d-block center-sm fw-bold">
                 <p class=""> <a href="https://condomonk.ca/bradford/" target="_blank"
-                        class="text-dark text-decoration-none"><strong>
-                            Check out all Bradford pre construction homes projects on
-                            Condomonk.</strong></a>
+                        class="text-dark text-decoration-none">
+                        Check out all Bradford pre construction homes projects on
+                        Condomonk.</a>
                 </p>
 
             </div>

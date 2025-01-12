@@ -313,10 +313,16 @@
     }
 
     .navbar-brand {
-        color: rgb(0, 0, 0) !important;
-        font-weight: 900 !important;
-        font-size: 2rem !important;
-        margin-right: 0rem !important;
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        height: 60px;
+    }
+
+    .navbar>.container {
+        position: relative;
+        padding-top: 5px;
+        padding-bottom: 5px;
     }
 
     .textt {
@@ -452,4 +458,35 @@
     gap: 20px;
     padding: 20px 0;
     flex-wrap: wrap;
+}
+
+.mobile-logo-container {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1;
+}
+
+.hamburger-btn {
+    position: relative;
+    z-index: 2;
+}
+
+@media (max-width: 768px) {
+    .navbar>.container {
+        position: relative;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+    .navbar-brand {
+        height: 60px;
+        margin: 0;
+        padding: 0;
+    }
+
+    .navbar-brand img {
+        height: 100%;
+        width: auto;
+    }
 }

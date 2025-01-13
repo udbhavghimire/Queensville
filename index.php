@@ -59,14 +59,15 @@
     <div class="sticky-top topp " id="header">
         <nav class="navbar navbar-expand-md bg-white" id="navbar">
             <div class=" container ">
-                <a href="/" class="navbar-brand d-md-block d-none">
+                <div> <a href="/" class="navbar-brand d-md-block d-none">
+                        <img src="images/logo.png" class="navbar-brand" alt="Queensville Towns & Singles">
+                    </a> </div>
+                <a href="/" class="navbar-brand d-block d-md-none mx-auto mt-3">
                     <img src="images/logo.png" class="navbar-brand" alt="Queensville Towns & Singles">
                 </a>
 
-                <div class=" mx-auto"><a href="/"
-                        class="navbar-brand d-block d-md-none d-flex justify-content-center center-sm">
-                        <img src="images/logo.png" class="navbar-brand " alt="Queensville Towns & Singles">
-                    </a></div>
+
+
                 <button class="d-block d-md-none btn" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                     aria-expanded="false" aria-label="Toggle navigation">
